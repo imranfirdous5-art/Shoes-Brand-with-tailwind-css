@@ -1,0 +1,130 @@
+import React from "react";
+import { Link, NavLink } from "react-router-dom";
+import Logo from "../assets/images/Logo.png"
+
+const Header = () => {
+
+  const navStyle="bg-blue-100 px-4 py-2 flex flex-col md:flex-row items-center justify-between";
+  const liStyle="border-b-2 border-transparent hover:border-blue-400 cursor-pointer relative group";
+  const srchhWrapStyle="flex flex-col sm:flex-row items-center gap-3 w-full md:w-auto";
+  const srchStyle="w-full sm:w-56 px-4 py-2 text-sm rounded-full border border-gray-300 bg-white/80 backdrop-blur shadow-sm focus:ring-1 focus:ring-blue-400 focus:border-blue-400 outline-none transition-all duration-200 placeholder-gray-400";
+  const signupStyle="px-5 py-2 rounded-full text-sm font-medium text-white bg-blue-500 hover:from-blue-500 hover:to-blue-600         active:scale-95 shadow-md hover:shadow-lg transition-all duration-200";
+                  
+
+  return (
+    <nav className={navStyle}>
+      {/* Logo */}
+      <div className="md:w-20">
+        {/* <img
+          src="https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-demo-icon-website-png-image_10473862.png"
+          src="https://e7.pngegg.com/pngimages/720/666/png-clipart-logo-shoe-brand-font-design-white-logo.png"
+          alt="logo" className="rounded-3xl"
+        /> */}
+        <img src={Logo} alt="logo" className="rounded-3xl" />
+      </div>
+
+      {/* Menu */}
+      <nav>
+        <ul className="flex flex-wrap justify-center gap-4 md:gap-5 capitalize text-sm md:text-base">
+          <li className={liStyle}>
+            <Link to="/">home</Link>
+          </li>
+
+          <li className={liStyle}>
+            <Link to="/Products">products</Link>
+          </li>
+          {/* <li className={liStyle}>
+            <Link to="/Brand"> brand</Link>
+          </li> */}
+          <li className={liStyle}>
+            {/* <Link to="/Men" className="relative group"></Link> */}
+            men
+            <div className="absolute left-0 mt-2 w-44 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 bg-white rounded">
+              <p className="hover:bg-blue-100 px-3 py-2">
+                <Link to="/CasualSneakers">
+                  casual sneakers
+                </Link>
+              </p>
+              <p className="hover:bg-blue-100 px-3 py-2">
+                <Link to="/FormalShoes">
+                  formal shoes
+                </Link>
+              </p>
+              <p className="hover:bg-blue-100 px-3 py-2">
+                <Link to="/Loafers">
+                  loafers
+                </Link>
+              </p>
+              <p className="hover:bg-blue-100 px-3 py-2">
+                <Link to="/SandalsSlippers">
+                  Sandals & Slippers
+                </Link>
+              </p>
+            </div>
+          </li>
+          <li className={liStyle}>
+            {/* <Link to="/Women"></Link> */}
+             women
+            <div className="absolute left-0 mt-2 w-44 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 bg-white rounded">
+              <p className="hover:bg-blue-100 px-3 py-2">
+                <Link to="/WomenSneakers">
+                  casual sneakers
+                </Link>
+              </p>
+              <p className="hover:bg-blue-100 px-3 py-2">
+                <Link to="/Heels">
+                  heels
+                </Link>
+              </p>
+              <p className="hover:bg-blue-100 px-3 py-2">
+                <Link to="/WomenSandals">
+                  Women Sandals
+                </Link>
+              </p>
+              <p className="hover:bg-blue-100 px-3 py-2">
+                <Link to="/SandalsSlippers">
+                  boots
+                </Link>
+              </p>
+            </div>
+          </li>
+          <li className={liStyle}>
+            <Link to="/Men"> kids</Link>
+          </li>
+          <li className={liStyle}>
+            contact
+          </li>
+          <li className="hover:border-b-2 border-blue-400 cursor-pointer">
+            FAQ
+          </li>
+        </ul>
+      </nav>
+
+      {/* Search + Signup */}
+      {/* <div className="flex flex-col sm:flex-row items-center gap-2 w-full md:w-auto">
+
+        <input
+          type="text"
+          placeholder="Search..."
+          className="border-2 rounded-2xl px-2 py-1 w-full sm:w-40"
+        />
+
+        <Link
+          to="/signup"
+          className="bg-blue-300 px-3 py-1 rounded-xl text-sm"
+        >
+          Signup
+        </Link>
+
+      </div> */}
+      <div className={srchhWrapStyle}>
+        <label htmlFor="search" className="sr-only">Search</label>
+        <input id="search" type="text" placeholder="Search..." className={srchStyle}/>
+        <Link to="/Signup" className={signupStyle}>Signup</Link>
+        <Link to="/Login" className={signupStyle}>Login</Link>
+      </div>
+    </nav>
+  );
+};
+
+export default Header;
