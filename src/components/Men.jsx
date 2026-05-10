@@ -1,5 +1,4 @@
 import React from "react";
-// import p1 from "../assets/images/p1.jpg";
 import { Link, NavLink } from "react-router-dom";
 
 const Men = () => {

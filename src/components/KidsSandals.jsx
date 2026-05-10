@@ -1,14 +1,14 @@
 import React from "react";
-import ls1 from "../assets/images/ls1.jpg";
-import ls2 from "../assets/images/ls2.jpg";
-import ls3 from "../assets/images/ls3.jpg";
-import ls4 from "../assets/images/ls4.jpg";
-import ls5 from "../assets/images/ls5.jpg";
-import ls6 from "../assets/images/ls6.jpg";
-import ls7 from "../assets/images/ls7.jpg";
+import kidsandal1 from "../assets/images/kidsandal1.jpg";
+import kidsandal2 from "../assets/images/kidsandal2.jpg";
+import kidsandal3 from "../assets/images/kidsandal3.jpg";
+import kidsandal4 from "../assets/images/kidsandal4.jpg";
+import kidsandal5 from "../assets/images/kidsandal5.jpg";
+import kidsandal6 from "../assets/images/kidsandal6.jpg";
+import kidsandal7 from "../assets/images/kidsandal7.jpg";
 import rating from "../assets/images/rating.png";
 
-const Loafers = () => {
+const KidsSandals = () => {
   const cardStyle =
     "w-52 p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300";
   const imgStyle = "w-full h-40 object-cover rounded-md";
@@ -22,14 +22,14 @@ const Loafers = () => {
     <>
       <div className="flex flex-col items-center bg-blue-100">
         <h2 className=" mt-5 mb-2 text-3xl uppercase font-bold">
-          Loafer Shoes
+          kids sandals
         </h2>
         <nav>
           <ul className="grid grid-cols-4 gap-8">
             <li className={cardStyle}>
-              <img src={ls1} alt="ls1" className={imgStyle} />
+              <img src={kidsandal1} alt="kidsandal1" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -38,9 +38,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls2} alt="ls2" className={imgStyle} />
+              <img src={kidsandal2} alt="kidsandal2" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -49,9 +49,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls3} alt="ls3" className={imgStyle} />
+              <img src={kidsandal3} alt="kidsandal3" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -60,9 +60,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls4} alt="ls4" className={imgStyle} />
+              <img src={kidsandal4} alt="kidsandal4" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -71,9 +71,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls5} alt="ls5" className={imgStyle} />
+              <img src={kidsandal5} alt="kidsandal5" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -82,9 +82,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls6} alt="ls6" className={imgStyle} />
+              <img src={kidsandal6} alt="kidsandal6" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -93,9 +93,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls7} alt="ls7" className={imgStyle} />
+              <img src={kidsandal7} alt="kidsandal7" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -104,9 +104,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls1} alt="ls1" className={imgStyle} />
+              <img src={kidsandal1} alt="kidsandal1" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -115,9 +115,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls2} alt="ls2" className={imgStyle} />
+              <img src={kidsandal2} alt="kidsandal2" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -126,9 +126,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls3} alt="ls3" className={imgStyle} />
+              <img src={kidsandal3} alt="kidsandal3" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -137,9 +137,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls4} alt="ls4" className={imgStyle} />
+              <img src={kidsandal4} alt="kidsandal4" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -148,9 +148,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls5} alt="ls5" className={imgStyle} />
+              <img src={kidsandal5} alt="kidsandal5" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -159,9 +159,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls6} alt="ls6" className={imgStyle} />
+              <img src={kidsandal6} alt="kidsandal6" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -170,9 +170,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls7} alt="ls7" className={imgStyle} />
+              <img src={kidsandal7} alt="kidsandal7" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                PANDANINJIA Mona Girls Sandals Toddler White Pu
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -187,4 +187,4 @@ const Loafers = () => {
   );
 };
 
-export default Loafers;
+export default KidsSandals;

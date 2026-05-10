@@ -6,7 +6,6 @@ import h4 from "../assets/images/h4.jpg";
 import h5 from "../assets/images/h5.jpg";
 import h6 from "../assets/images/h6.jpg";
 import h7 from "../assets/images/h7.jpg";
-
 import rating from "../assets/images/rating.png";
 
 const Heels = () => {
@@ -28,7 +27,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h1} alt="h1" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -39,7 +38,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h2} alt="h2" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -50,7 +49,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h3} alt="h3" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -61,7 +60,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h4} alt="h4" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -72,7 +71,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h5} alt="h5" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -83,7 +82,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h6} alt="h6" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -94,7 +93,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h7} alt="h7" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -105,7 +104,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h1} alt="h1" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -116,7 +115,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h2} alt="h2" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -127,7 +126,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h3} alt="h3" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -138,7 +137,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h4} alt="h4" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -149,7 +148,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h5} alt="h5" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -160,7 +159,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h6} alt="h6" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -171,7 +170,7 @@ const Heels = () => {
             <li className={cardStyle}>
               <img src={h7} alt="h7" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Uunda Fashion Black Ankle Strap High Heels for Women
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>

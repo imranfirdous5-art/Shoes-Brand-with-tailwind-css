@@ -1,14 +1,14 @@
 import React from "react";
-import ls1 from "../assets/images/ls1.jpg";
-import ls2 from "../assets/images/ls2.jpg";
-import ls3 from "../assets/images/ls3.jpg";
-import ls4 from "../assets/images/ls4.jpg";
-import ls5 from "../assets/images/ls5.jpg";
-import ls6 from "../assets/images/ls6.jpg";
-import ls7 from "../assets/images/ls7.jpg";
+import kidsneaker1 from "../assets/images/kidsneaker1.jpg";
+import kidsneaker2 from "../assets/images/kidsneaker2.jpg";
+import kidsneaker3 from "../assets/images/kidsneaker3.jpg";
+import kidsneaker4 from "../assets/images/kidsneaker4.jpg";
+import kidsneaker5 from "../assets/images/kidsneaker5.jpg";
+import kidsneaker6 from "../assets/images/kidsneaker6.jpg";
+import kidsneaker7 from "../assets/images/kidsneaker7.jpg";
 import rating from "../assets/images/rating.png";
 
-const Loafers = () => {
+const KidsSneakers = () => {
   const cardStyle =
     "w-52 p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300";
   const imgStyle = "w-full h-40 object-cover rounded-md";
@@ -22,14 +22,14 @@ const Loafers = () => {
     <>
       <div className="flex flex-col items-center bg-blue-100">
         <h2 className=" mt-5 mb-2 text-3xl uppercase font-bold">
-          Loafer Shoes
+          kids sneakers
         </h2>
         <nav>
           <ul className="grid grid-cols-4 gap-8">
             <li className={cardStyle}>
-              <img src={ls1} alt="ls1" className={imgStyle} />
+              <img src={kidsneaker1} alt="kidsneaker1" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -38,9 +38,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls2} alt="ls2" className={imgStyle} />
+              <img src={kidsneaker2} alt="kidsneaker2" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -49,9 +49,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls3} alt="ls3" className={imgStyle} />
+              <img src={kidsneaker3} alt="kidsneaker3" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -60,9 +60,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls4} alt="ls4" className={imgStyle} />
+              <img src={kidsneaker4} alt="kidsneaker4" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -71,9 +71,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls5} alt="ls5" className={imgStyle} />
+              <img src={kidsneaker5} alt="kidsneaker5" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -82,9 +82,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls6} alt="ls6" className={imgStyle} />
+              <img src={kidsneaker6} alt="kidsneaker6" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -93,9 +93,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls7} alt="ls7" className={imgStyle} />
+              <img src={kidsneaker7} alt="kidsneaker7" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -104,9 +104,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls1} alt="ls1" className={imgStyle} />
+              <img src={kidsneaker1} alt="kidsneaker1" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -115,9 +115,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls2} alt="ls2" className={imgStyle} />
+              <img src={kidsneaker2} alt="kidsneaker2" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -126,9 +126,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls3} alt="ls3" className={imgStyle} />
+              <img src={kidsneaker3} alt="kidsneaker3" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -137,9 +137,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls4} alt="ls4" className={imgStyle} />
+              <img src={kidsneaker4} alt="kidsneaker4" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -148,9 +148,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls5} alt="ls5" className={imgStyle} />
+              <img src={kidsneaker5} alt="kidsneaker5" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -159,9 +159,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls6} alt="ls6" className={imgStyle} />
+              <img src={kidsneaker6} alt="kidsneaker6" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -170,9 +170,9 @@ const Loafers = () => {
               <button className={btnStyle}>buy now</button>
             </li>
             <li className={cardStyle}>
-              <img src={ls7} alt="ls7" className={imgStyle} />
+              <img src={kidsneaker7} alt="kidsneaker7" className={imgStyle} />
               <p className={textStyle}>
-                HITZ Men's Black Leather Casual Loafers
+                Boys Colourblocked Sneakers Online 1000014388727
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -187,4 +187,4 @@ const Loafers = () => {
   );
 };
 
-export default Loafers;
+export default KidsSneakers;

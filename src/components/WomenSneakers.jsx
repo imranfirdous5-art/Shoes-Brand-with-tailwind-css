@@ -6,7 +6,6 @@ import ws4 from "../assets/images/ws4.jpg";
 import ws5 from "../assets/images/ws5.jpg";
 import ws6 from "../assets/images/ws6.jpg";
 import ws7 from "../assets/images/ws7.jpg";
-
 import rating from "../assets/images/rating.png";
 
 const WomenSneakers = () => {
@@ -28,7 +27,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws1} alt="ws1" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -39,7 +38,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws2} alt="ws2" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -50,7 +49,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws3} alt="ws3" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -61,7 +60,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws4} alt="ws4" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -72,7 +71,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws5} alt="ws5" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -83,7 +82,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws6} alt="ws6" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -94,7 +93,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws7} alt="ws7" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -105,7 +104,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws1} alt="ws1" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -116,7 +115,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws2} alt="ws2" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -127,7 +126,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws3} alt="ws3" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -138,7 +137,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws4} alt="ws4" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -149,7 +148,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws5} alt="ws5" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -160,7 +159,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws6} alt="ws6" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>
@@ -171,7 +170,7 @@ const WomenSneakers = () => {
             <li className={cardStyle}>
               <img src={ws7} alt="ws7" className={imgStyle} />
               <p className={textStyle}>
-                air jorden 1 high chicago lost and found
+                Bacca Bucci MARINE Low-top Platform Fashion Sneakers
               </p>
               <div className={ratingWrap}>
                 <span>rating</span>

@@ -31,7 +31,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss1} alt="ss1" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -42,7 +42,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss2} alt="ss2" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -53,7 +53,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss3} alt="ss3" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -64,7 +64,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss4} alt="ss4" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -75,7 +75,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss5} alt="ss5" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -86,7 +86,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss6} alt="ss6" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -97,7 +97,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss7} alt="ss7" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -108,7 +108,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss1} alt="ss1" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -119,7 +119,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss2} alt="ss2" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -130,7 +130,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss3} alt="ss3" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -141,7 +141,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss4} alt="ss4" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -152,7 +152,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss5} alt="ss5" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -163,7 +163,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss6} alt="ss6" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -174,7 +174,7 @@ const SandalsSlippers = () => {
                         <li className={cardStyle}>
                           <img src={ss7} alt="ss7" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            AFROJACK Sandal/Slippers For Men With PU Upper
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>

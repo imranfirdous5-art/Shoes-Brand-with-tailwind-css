@@ -18,6 +18,13 @@ import Women from './components/Women'
 import WomenSneakers from './components/WomenSneakers'
 import Heels from './components/Heels'
 import WomenSandals from './components/WomenSandals'
+import WomenBoots from './components/WomenBoots'
+import Kids from './components/Kids'
+import KidsSneakers from './components/KidsSneakers'
+import KidsSandals from './components/KidsSandals'
+import KidsSchoolShoes from './components/KidsSchoolShoes'
+import KidsBoots from './components/KidsBoots'
+import ContactUs from './components/ContactUs'
 // import Demo from './components/Demo'
 // import NavDemo from './components/NavDemo'
 
@@ -35,11 +42,9 @@ function App() {
      <NavDemo/> */}
      <Routes>
       <Route path="/" element={<Banner/>} />
-      {/* <Route path="/products" element={<Banner/>} /> */}
       <Route path="Signup" element={<Signup/>}/>
       <Route path="Login" element={<Login/>}/>
       <Route path="/Products" element={<Products/>} />
-      {/* <Route path="/Brand" element={<Brand/>} /> */}
       <Route path="/Men" element={<Men/>} />
       <Route path="/CasualSneakers" element={<CasualSneakers/>} />
       <Route path="/FormalShoes" element={<FormalShoes/>} />
@@ -50,18 +55,19 @@ function App() {
       <Route path="/WomenSneakers" element={<WomenSneakers/>} />
       <Route path="/Heels" element={<Heels/>} />
       <Route path="/WomenSandals" element={<WomenSandals/>} />
+      <Route path="/WomenBoots" element={<WomenBoots/>} />
+      <Route path="/Kids" element={<Kids/>} />
+      <Route path="/KidsSneakers" element={<KidsSneakers/>} />
+      <Route path="/KidsSandals" element={<KidsSandals/>} />
+      <Route path="/KidsSchoolShoes" element={<KidsSchoolShoes/>} />
+      <Route path="/KidsBoots" element={<KidsBoots/>} />
+      <Route path="/ContactUs" element={<ContactUs/>} />
       
      </Routes>
      
      <Deal /> 
-     {/* <Products/> */}
      <Brand/>
      <Footer />
-     {/* <WomenSneakers/>
-     <Women/> */}
-     
-
-     
      
 
 

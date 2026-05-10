@@ -29,7 +29,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs1} alt="fs1" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -40,7 +40,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs2} alt="fs2" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -51,7 +51,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs3} alt="fs3" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -62,7 +62,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs4} alt="fs4" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -73,7 +73,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs5} alt="fs5" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -84,7 +84,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs6} alt="fs6" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -95,7 +95,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs7} alt="fs7" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -106,7 +106,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs1} alt="fs1" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -117,7 +117,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs2} alt="fs2" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -128,7 +128,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs3} alt="fs3" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -139,7 +139,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs4} alt="fs4" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -150,7 +150,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs5} alt="fs5" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -161,7 +161,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs6} alt="fs6" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>
@@ -172,7 +172,7 @@ const FormalShoes = () => {
                         <li className={cardStyle}>
                           <img src={fs7} alt="fs7" className={imgStyle} />
                           <p className={textStyle}>
-                            air jorden 1 high chicago lost and found
+                            Men Black Textured Brogue Formal Shoes Black
                           </p>
                           <div className={ratingWrap}>
                             <span>rating</span>

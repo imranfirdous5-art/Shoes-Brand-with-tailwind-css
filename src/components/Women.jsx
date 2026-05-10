@@ -9,7 +9,7 @@ const Women = () => {
     <>
       <div className="bg-blue-100 flex flex-row items-center">
         <nav className="mx-105">
-          <ul className="flex flex-col text-sm gap-1 mx-auto capitalize bor">
+          <ul className="flex flex-col text-sm gap-1 mx-auto capitalize">
             
             <li className={liStyle}>
               <Link to="/WomenSneakers">
@@ -27,7 +27,7 @@ const Women = () => {
               </Link>
               </li>
               <li className={liStyle}>
-                <Link className="" to="/SandalsSlippers">
+                <Link className="" to="/WomenBoots">
                   boots
               </Link>
               </li>
