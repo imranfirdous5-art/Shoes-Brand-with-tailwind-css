@@ -8,13 +8,13 @@ import Products from './components/Products'
 import Brand from "./components/Brand"
 import Deal from "./components/Deal"
 import Footer from './components/Footer'
-import Men from './components/Men'
+// import Men from './components/Men'
 import CasualSneakers from './components/CasualSneakers'
 import FormalShoes from './components/FormalShoes'
 import Loafers from './components/Loafers'
 import SandalsSlippers from './components/SandalsSlippers'
 import AboutProducts from './components/AboutProducts'
-import Women from './components/Women'
+// import Women from './components/Women'
 import WomenSneakers from './components/WomenSneakers'
 import Heels from './components/Heels'
 import WomenSandals from './components/WomenSandals'
@@ -45,13 +45,13 @@ function App() {
       <Route path="Signup" element={<Signup/>}/>
       <Route path="Login" element={<Login/>}/>
       <Route path="/Products" element={<Products/>} />
-      <Route path="/Men" element={<Men/>} />
+      {/* <Route path="/Men" element={<Men/>} /> */}
       <Route path="/CasualSneakers" element={<CasualSneakers/>} />
       <Route path="/FormalShoes" element={<FormalShoes/>} />
       <Route path="/Loafers" element={<Loafers/>} />
       <Route path="/SandalsSlippers" element={<SandalsSlippers/>} />
       <Route path="/AboutProducts" element={<AboutProducts/>} />
-      <Route path="/Women" element={<Women/>}/>
+      {/* <Route path="/Women" element={<Women/>}/> */}
       <Route path="/WomenSneakers" element={<WomenSneakers/>} />
       <Route path="/Heels" element={<Heels/>} />
       <Route path="/WomenSandals" element={<WomenSandals/>} />
@@ -67,6 +67,7 @@ function App() {
      
      <Deal /> 
      <Brand/>
+     <ContactUs/>
      <Footer />
      
 

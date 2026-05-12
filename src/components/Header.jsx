@@ -44,7 +44,6 @@ const Header = () => {
           {/* men */}
           <li className={liStyle}>
             <span className="flex items-center">
-              {" "}
               men <IoMdArrowDropdown />
             </span>
             <div className="absolute left-0 mt-2 w-44 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 bg-white rounded">
@@ -66,7 +65,6 @@ const Header = () => {
           {/* women */}
           <li className={liStyle}>
             <span className="flex items-center">
-              {" "}
               women <IoMdArrowDropdown />
             </span>
             <div className="absolute left-0 mt-2 w-44 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 bg-white rounded">
@@ -88,7 +86,6 @@ const Header = () => {
           {/* kids */}
           <li className={liStyle}>
             <span className="flex items-center">
-              {" "}
               kids <IoMdArrowDropdown />
             </span>
             <div className="absolute left-0 mt-2 w-44 bg-white rounded opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-100">
@@ -109,7 +106,7 @@ const Header = () => {
 
           {/* contact us */}
           <li className={liStyle}>
-          <Link to="/ContactUs"></Link>  contact us
+            <Link to="/ContactUs">contact us</Link>
           </li>
 
           {/* FAQ */}
