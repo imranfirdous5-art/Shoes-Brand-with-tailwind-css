@@ -13,7 +13,7 @@ const Header = () => {
   const srchStyle =
     "w-full sm:w-56 px-4 py-2 text-sm rounded-full border border-gray-300 bg-white/80 backdrop-blur shadow-sm focus:ring-1 focus:ring-blue-400 focus:border-blue-400 outline-none transition-all duration-200 placeholder-gray-400";
   const signupStyle =
-    "px-5 py-2 rounded-full text-sm font-medium text-white bg-blue-500 hover:from-blue-500 hover:to-blue-600         active:scale-95 shadow-md hover:shadow-lg transition-all duration-200";
+    "px-5 py-2 rounded-full text-sm font-medium text-white bg-blue-500 hover:from-blue-500 hover:to-blue-600 active:scale-95 shadow-md hover:shadow-lg transition-all duration-200";
 
   return (
     <nav className={navStyle}>
