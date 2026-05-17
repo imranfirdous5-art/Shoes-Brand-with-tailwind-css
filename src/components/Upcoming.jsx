@@ -10,7 +10,7 @@ import "swiper/css/pagination";
 const Upcoming = () => {
   return (
     <>
-    <div className="bg-blue-100 pb-6">
+    <div className="bg-blue-100 pb-6 pt-5">
         <h2 className="mb-6 pt-6 text-2xl sm:text-3xl md:text-4xl uppercase text-center">
         Upcoming Products
       </h2>

@@ -111,7 +111,7 @@ const Header = () => {
 
           {/* FAQ */}
           <li className="hover:border-b-2 border-blue-400 cursor-pointer">
-            FAQ
+             <Link to="/FAQ">FAQ</Link>
           </li>
         </ul>
       </nav>

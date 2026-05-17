@@ -11,7 +11,7 @@ const Deal = () => {
 
   return (
     <div className="bg-blue-100 py-10 px-4">
-      <h2 className="mb-5 text-3xl sm:text-4xl md:text-5xl font-bold tracking-wide uppercase text-center text-gray-800">
+      <h2 className="mb-5 text-2xl sm:text-3xl md:text-4xl  tracking-wide uppercase text-center text-gray-800">
         Deal of the Week
       </h2>
 

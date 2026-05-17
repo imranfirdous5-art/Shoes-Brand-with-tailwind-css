@@ -26,7 +26,9 @@ import KidsSchoolShoes from './components/KidsSchoolShoes'
 import KidsBoots from './components/KidsBoots'
 import ContactUs from './components/ContactUs'
 import Upcoming from './components/Upcoming'
-import FAQ from './components/Faq\'s'
+import FAQ from './components/FAQ'
+
+
 
 // import Demo from './components/Demo'
 // import NavDemo from './components/NavDemo'
@@ -67,7 +69,8 @@ function App() {
       <Route path="/KidsSchoolShoes" element={<KidsSchoolShoes/>} />
       <Route path="/KidsBoots" element={<KidsBoots/>} />
       <Route path="/ContactUs" element={<ContactUs/>} />
-      <Route path="/FAQ" element={<FAQ/>}/>
+      <Route path="/FAQ" element={<FAQ/>} />
+      
       
      </Routes>
      <Upcoming/>
@@ -75,7 +78,7 @@ function App() {
      <Brand/>
      {/* <ContactUs/> */}
      <Footer />
-
+      {/* <FAQ/> */}
      
      
 
