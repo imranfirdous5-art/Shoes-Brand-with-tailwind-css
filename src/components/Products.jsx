@@ -90,7 +90,7 @@ import { Link, NavLink } from "react-router-dom";
 
 const Products = () => {
   const cardStyle =
-    "w-52 p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300";
+    "w-full p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300";
   const imgStyle = "w-full h-40 object-cover rounded-md";
   const textStyle =
     "text-xs mt-2 mb-2 font-normal text-gray-600 capitalize line-clamp-2 leading-tight";
@@ -104,7 +104,7 @@ const Products = () => {
         <h2 className=" mt-5 mb-2 text-4xl uppercase">our products</h2>
 
         <nav>
-          <ul className="flex flex-row justify-center flex-wrap gap-4">
+          <ul className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {/* products */}
             <li className={cardStyle}>
               <img src={p1} alt="p1" className={imgStyle} />
