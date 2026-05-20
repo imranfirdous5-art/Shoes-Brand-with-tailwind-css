@@ -30,23 +30,13 @@ import FAQ from './components/FAQ'
 
 
 
-// import Demo from './components/Demo'
-// import NavDemo from './components/NavDemo'
-
-
-
-
-
-
-
 function App() {
   
 
   return (
     <>
      <Header />
-     {/* <Demo/>
-     <NavDemo/> */}
+     
      <Routes>
       <Route path="/" element={<Banner/>} />
       <Route path="Signup" element={<Signup/>}/>
@@ -76,13 +66,8 @@ function App() {
      <Upcoming/>
      <Deal /> 
      <Brand/>
-     {/* <ContactUs/> */}
      <Footer />
-      {/* <FAQ/> */}
-     
-     
-
-
+      
     </>
   )
 }

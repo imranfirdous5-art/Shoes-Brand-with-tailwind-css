@@ -11,22 +11,14 @@ const Login = () => {
 
     return(
         <>
-            <div className="flex justify-center items-center min-h-screen bg-blue-100 px-4">
+            <div className="flex justify-center items-center bg-blue-100 py-25">
                 <form className={formStyle}>
                         <h1 className="text-2xl font-semibold text-center text-gray-800">
                         Login
                         </h1>
 
                     <div className="flex flex-col gap-4">
-                    {/* <div className="flex flex-col gap-1">
-                        <label className="text-sm text-gray-600">Name</label>
-                        <input
-                        type="text"
-                        placeholder="Enter your name"
-                        className={nameStyle}
-                        />
-                    </div> */}
-
+                        
                     <div className="flex flex-col gap-1">
                         <label className="text-sm text-gray-600">Email</label>
                         <input type="email" placeholder="Enter your email" className={emailStyle}/>
