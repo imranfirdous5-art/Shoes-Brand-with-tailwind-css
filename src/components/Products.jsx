@@ -103,7 +103,7 @@ const Products = () => {
       <div className="bg-blue-100 flex flex-col items-center pt-5 pb-10">
         <h2 className=" mt-5 mb-2 text-4xl uppercase">our products</h2>
 
-        <nav>
+        <nav className="p-2 md:px-4 lg:px-30">
           <ul className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {/* products */}
             <li className={cardStyle}>

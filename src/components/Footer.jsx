@@ -1,19 +1,3 @@
-// import React from "react";
-
-// const Footer = () => {
-//     return(
-//         <>
-//             <div className="text-2xl font-bold border bg-amber-300 p-4">
-//                 <h1 className="border mx-auto w-28">footer</h1>
-//             </div>
-//         </>
-//     )
-// }
-
-// export default Footer;
-
-
-
 import React from "react";
 
 const Footer = () => {
@@ -29,7 +13,7 @@ const Footer = () => {
           
           {/* Left */}
           <p className="text-center sm:text-left text-black">
-            © 2026 YourStore. All rights reserved.
+            © 2026 YourStore. All rights reserved made by Imran Firdous.
           </p>
 
           {/* Center Links */}
