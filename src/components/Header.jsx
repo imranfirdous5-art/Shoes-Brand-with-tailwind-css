@@ -169,12 +169,14 @@ const Header = () => {
   const srchhWrapStyle =
     "flex flex-col sm:flex-row items-center gap-3 w-full md:w-auto";
   const srchStyle =
-    "w-full sm:w-56 px-4 py-2 text-sm rounded-full border border-gray-300 bg-white/80 backdrop-blur shadow-sm focus:ring-1 focus:ring-blue-400 focus:border-blue-400 outline-none transition-all duration-200 placeholder-gray-400";
+    "w-56 sm:w-56 px-4 py-2 text-sm rounded-full border border-gray-300 bg-white/80 backdrop-blur shadow-sm focus:ring-1 focus:ring-blue-400 focus:border-blue-400 outline-none transition-all duration-200 placeholder-gray-400";
   const signupStyle =
     "px-5 py-2 rounded-full text-sm font-medium text-white bg-blue-500 hover:from-blue-500 hover:to-blue-600 active:scale-95 shadow-md hover:shadow-lg transition-all duration-200";
 
 
     const [menuOpen, setMenuOpen] = useState(false);
+
+
 
   return (
     <>
@@ -238,7 +240,7 @@ const Header = () => {
           </li>
 
           <li className={liStyle}>
-            <Link to="/Products">products</Link>
+           <Link to="/Products">products</Link>
           </li>
           {/* <li className={liStyle}>
             <Link to="/Brand"> brand</Link>
@@ -265,6 +267,7 @@ const Header = () => {
             </div>
           </li>
 
+          
           {/* women */}
           <li className={liStyle}>
             <span className="flex items-center">
