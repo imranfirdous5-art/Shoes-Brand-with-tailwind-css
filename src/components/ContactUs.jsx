@@ -8,8 +8,8 @@ const ContactUs = () => {
         <h2 className="mt-10 mb-4 text-2xl sm:text-3xl md:text-4xl uppercase text-center">
           contact us
         </h2>
-        <div className="grid grid-cols-2 gap-2 border border-blue-500 mx-auto rounded-2xl">
-          <div className="mx-auto w-full px-3 sm:px-6 md:px-10 lg:px-20 py-4 flex flex-col items-start">
+        <div className="grid grid-rows-2 gap-2 border border-blue-500 mx-auto rounded-2xl md:flex items-center">
+          <div className="mx-auto w-full px-3 sm:px-6 md:px-10 h-64 md:overflow-scroll md:h-80 lg:overflow-hidden lg:h-auto lg:px-20 py-4 flex flex-col items-start ">
             <h6 className="text-lg sm:text-xl md:text-2xl font-semibold mb-3 w-full text-center md:text-left">
               We are here to help!
             </h6>

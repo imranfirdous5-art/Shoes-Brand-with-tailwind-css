@@ -27,7 +27,7 @@ import KidsBoots from './components/KidsBoots'
 import ContactUs from './components/ContactUs'
 import Upcoming from './components/Upcoming'
 import FAQ from './components/FAQ'
-import AddToCart from './components/AddToCart'
+
 
 
 
@@ -38,12 +38,12 @@ function App() {
     <>
      <Header />
      
-     <AddToCart/>
+     
      <Routes>
       <Route path="/" element={<Banner/>} />
       <Route path="Signup" element={<Signup/>}/>
       <Route path="Login" element={<Login/>}/>
-      <Route path="AddToCart" element={<AddToCart/>}/>
+      
       <Route path="/Products" element={<Products/>} />
       {/* <Route path="/Men" element={<Men/>} /> */}
       <Route path="/CasualSneakers" element={<CasualSneakers/>} />
