@@ -205,12 +205,14 @@ const Header = () => {
           placeholder="Search..."
           className={srchStyle}
         />
+        <div className="flex flex-row gap-2">
         <Link to="/Signup" className={signupStyle}>
           Signup
         </Link>
         <Link to="/Login" className={signupStyle}>
           Login
         </Link>
+        </div>
       </div>
 
     </nav>
