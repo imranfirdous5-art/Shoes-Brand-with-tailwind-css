@@ -194,9 +194,6 @@ const Header = () => {
       </div>
 
       
-
-      
-
       {/* Search + Signup */}
       <div className={srchhWrapStyle}>
         <label htmlFor="search" className="sr-only">
@@ -215,6 +212,7 @@ const Header = () => {
           Login
         </Link>
       </div>
+
     </nav>
 
 {/* Hamburger */}

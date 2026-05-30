@@ -26,16 +26,16 @@ const Banner = () => {
           </p>
 
           {/* Form */}
-          <form className="flex flex-col gap-2 mt-2 w-full sm:w-64 mx-auto lg:mx-0">
+          <form className="flex flex-col items-center gap-2 mt-2 w-full sm:w-64 mx-auto lg:mx-0">
             <input
               type="text"
               placeholder="Name"
-              className="bg-white rounded-3xl p-2 text-sm"
+              className="bg-white rounded-3xl p-2 text-sm w-44 lg:w-full md:w-60"
             />
             <input
               type="text"
               placeholder="Email"
-              className="bg-white rounded-3xl p-2 text-sm"
+              className="bg-white rounded-3xl p-2 text-sm w-44 lg:w-full md:w-60"
             />
             {/* <button className="bg-blue-300 px-3 py-1 rounded-2xl w-32 cursor-pointer mx-auto lg:mx-0">
             Shop Now
