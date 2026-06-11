@@ -251,17 +251,17 @@ const Header = () => {
             <span className="flex items-center">
               men <IoMdArrowDropdown />
             </span>
-            <div className="absolute left-0 mt-2 w-44 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 bg-white rounded">
-              <p className="hover:bg-blue-100 px-3 py-2">
+            <div className="absolute left-0 mt-2 w-46 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 bg-white rounded p-1">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/CasualSneakers">casual sneakers</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/FormalShoes">formal shoes</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/Loafers">loafers</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/SandalsSlippers">Sandals & Slippers</Link>
               </p>
             </div>
@@ -273,17 +273,17 @@ const Header = () => {
             <span className="flex items-center">
               women <IoMdArrowDropdown />
             </span>
-            <div className="absolute left-0 mt-2 w-44 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 bg-white rounded">
-              <p className="hover:bg-blue-100 px-3 py-2">
+            <div className="absolute left-0 mt-2 w-46 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 bg-white rounded p-1">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/WomenSneakers">casual sneakers</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/Heels">heels</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/WomenSandals">Women Sandals</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/WomenBoots">women boots</Link>
               </p>
             </div>
@@ -294,17 +294,17 @@ const Header = () => {
             <span className="flex items-center">
               kids <IoMdArrowDropdown />
             </span>
-            <div className="absolute left-0 mt-2 w-44 bg-white rounded opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-100">
-              <p className="hover:bg-blue-100 px-3 py-2">
+            <div className="absolute left-0 mt-2 w-46 bg-white rounded opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-100 p-1">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/KidsSneakers">sneakers</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/KidsSandals">sandals</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/KidsSchoolShoes">school shoes</Link>
               </p>
-              <p className="hover:bg-blue-100 px-3 py-2">
+              <p className="hover:bg-blue-100 px-3 py-2 hover:border hover:border-blue-300 hover:rounded">
                 <Link to="/KidsBoots">Kids Boots</Link>
               </p>
             </div>
